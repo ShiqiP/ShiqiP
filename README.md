@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shiqi – Front-End Engineer 👋
 
-<!--
-**ShiqiP/ShiqiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪄 Programming feels like magic — it’s the art of turning imagination into interactive experiences. I’m a magician🧙 always learning new spells and refining my craft to build things that impress and inspire!
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Front-End
+- Frameworks & Libraries: **React**, **Vue**, **Next.js**,  **TypeScript**, **JavaScript (ES6+)**
+- Styling: **Tailwind CSS**, **SASS/SCSS/LESS**, **Bootstrap**, **Material-UI**
+- Tooling: **Babel.js**, **Webpack**, **npm/yarn**
+
+### 🛠️ Back-End
+- Languages & Frameworks: **Node.js**, **Express.js**, **Java**
+- Databases: **MongoDB**
+
+### ☁️ Tools & Technologies
+- Version Control: **Git**, **GitHub**
+- APIs: **RESTful APIs**, **WebSocket**
+- Cloud & DevOps: **AWS (EC2, S3, Lambda, DynamoDB)**, **CI/CD**
+- Testing & Auth: **Jest**, **JWT**
+- UX & Accessibility: **UI/UX design**, **Figma**, **Eyes-on-pixel**, **WCAG compliance**
+- Data & Visualization: **ECharts**, **JSON**, **AJAX**
+- AI/ML: **Vector Indexing**, **LLM/NLP**, **OpenAI API**
+
+## ✨ Fun Fact
+I think programming is the closest thing we have to magic. Every bug fixed is like dispelling a dark spell! 🪄🐞
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shiqi-pang/)  
+🌐 Portfolio: [Portfolio](https://shiqip.github.io/portfolio/)  
+
+---
+🛠️ Let’s build something magical together!
