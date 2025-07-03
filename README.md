@@ -1,4 +1,4 @@
-# Hi, I'm Shiqi – Front-End Engineer / Software Engineer👋
+# Hi, I'm Shiqi – Software Engineer👋
 
 🪄 Programming feels like magic — it’s the art of turning imagination into interactive experiences. I’m a magician🧙 always learning new spells and refining my craft to build things that impress and inspire!
 
